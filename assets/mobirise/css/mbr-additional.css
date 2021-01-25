@@ -688,8 +688,12 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sn652ZOLO7 {
-  background-image: url("../../../assets/images/box-2864335-640-1002x615.png");
+.cid-sn652ZOLO7 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sn652ZOLO7 .mbr-text,
+.cid-sn652ZOLO7 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-sk4wo6kif1 {
   z-index: 1000;
